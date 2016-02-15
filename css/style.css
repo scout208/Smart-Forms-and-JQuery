@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#form {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 1.1em;
+	border-radius: 6px;
+	background-color: #deedf7;
+	border-color: #aed0ea;
+	font-weight: bold;
+	border-style: solid;
+	color: #222222;
+}
+
+form {
+	background-color: #f2f5f7;
+	border-color: #dddddd;
+	border-style: solid;
+	color: #362b36;	
+}
