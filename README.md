@@ -1,6 +1,7 @@
 # Smart-Forms-and-JQuery
 Using JQueryUI, JQuery, HTML5 Validation, and PHP.
 
+#### How it works:
 Using JQueryUI for the UI elements. There are 3 tabs that change the text on the page based on their selection. 
 
 When the "Join Us!" button is selected, a form is revealed using JQuery. 
